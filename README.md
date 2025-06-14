@@ -1,0 +1,1 @@
+# goldmaico_bot
