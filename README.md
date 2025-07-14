@@ -1,1 +1,1 @@
-# goldmaico_bot
+# bot
